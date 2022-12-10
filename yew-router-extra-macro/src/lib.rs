@@ -1,4 +1,5 @@
 mod derive;
+
 use derive::{titled_routable_derive_impl, TitledRoutable};
 use syn::parse_macro_input;
 
